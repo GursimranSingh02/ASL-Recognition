@@ -1,6 +1,7 @@
-streamlit 
-opencv-python 
+streamlit
+opencv-python
 cvzone
-numpy 
+numpy==1.26.4
 mediapipe
-tensorflow
+tensorflow==2.15.1
+keras
